@@ -2,7 +2,7 @@
 A self-taught project to learn SwiftUI.
 
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/UnicornBoss/NDaysOfSwiftUI)
-[![Twitter Follow](https://img.shields.io/twitter/follow/archyvan.svg?style=social)](https://twitter.com/archyvan92)
+[![Twitter Follow](https://img.shields.io/twitter/url?label=archyvan92&style=social&url=https%3A%2F%2Ftwitter.com%2Farchyvan92%2F)](https://twitter.com/archyvan92)
 
 ## Hi Community ##
 
